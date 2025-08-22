@@ -3,3 +3,4 @@
 echo "Hello $USER!"
 echo "Today is: $(date)"
 echo "Your current working directory is: $(pwd)"
+echo "This is a new feature!"
